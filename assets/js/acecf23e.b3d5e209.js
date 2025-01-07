@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcda_doc=self.webpackChunkcda_doc||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/cda-doc/blog","blogTitle":"Blog","authorsListPath":"/cda-doc/blog/authors"}')}}]);

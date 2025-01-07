@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcda_doc=self.webpackChunkcda_doc||[]).push([[1902],{469:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/cda-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
